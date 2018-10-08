@@ -21,3 +21,10 @@ https://developer.android.com/studio/releases/platform-tools
 npm(Node.js)
 https://nodejs.org/en/
 
+Java クライアントライブラリ
+6.1.0
+https://search.maven.org/search?q=g:io.appium%20a:java-client
+
+3.1.4
+https://www.seleniumhq.org/download/
+
