@@ -1,5 +1,8 @@
 # myappium
 
+テスト対象：https://github.com/papaos/MyFirstApp
+
+
 java-client-6.1.0.jarは
 driver = new AndroidDriver<>(new URL("http://127.0.0.1:4723/wd/hub"), dc);
 がNULLになるので、java-client-5.0.0.jarがよい
