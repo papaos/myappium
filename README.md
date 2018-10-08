@@ -11,3 +11,6 @@ npm install -g appium@1.7.2 --no-shrinkwrap
 npm install -g appium-doctor
 
 今のところJunit4がいろいろ使えそう。
+
+Java８
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
