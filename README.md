@@ -14,3 +14,10 @@ npm install -g appium-doctor
 
 Java８
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+Adb(platform tools)
+https://developer.android.com/studio/releases/platform-tools
+
+npm(Node.js)
+https://nodejs.org/en/
+
